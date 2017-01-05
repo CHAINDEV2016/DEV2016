@@ -67,7 +67,4 @@ We do not accept translation changes as GitHub pull requests because the next pu
 Translators should also subscribe to the mailing list.
 
 
-# technical adviser
- 
-technical adviser  WeChat:abo7788
 
